@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.note
+{
+    font-size: 20px;
+    color: rgb(41, 2, 62);
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(180, 227, 245);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+canvas
+{
+    border: 5px solid rgb(246, 164, 243);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(152, 139, 151);
+}
